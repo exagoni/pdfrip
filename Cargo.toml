@@ -26,7 +26,7 @@ anyhow = "1.0.72"
 indicatif = "0.17"
 crossbeam = "0.8.2"
 clap = { version = "4.4.13", features = ["derive"] }
-colored = "2.0.4"
+colored = "3.0.0"
 
 
 [package]
