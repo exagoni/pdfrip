@@ -19,13 +19,13 @@ cli-interface.path="crates/cli-interface"
 # This makes it easier to see what crates are used in this project as well as 
 # avoids issue where e.g. "log" performs a breaking change, and two of our
 # crates use different major versions causing issues.
-bytecount = "0.6.7"
-log = "0.4.19"
+bytecount = "0.6.8"
+log = "0.4.27"
 pdf = "0.9.0"
-anyhow = "1.0.72"
+anyhow = "1.0.98"
 indicatif = "0.17.11"
-crossbeam = "0.8.2"
-clap = { version = "4.4.13", features = ["derive"] }
+crossbeam = "0.8.4"
+clap = { version = "4.5.39", features = ["derive"] }
 colored = "3.0.0"
 
 
