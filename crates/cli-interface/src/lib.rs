@@ -8,7 +8,7 @@ use engine::{
         dictionary::LineProducer, number_ranges::RangeProducer, Producer,
     },
 };
-use indicatif::{ProgressBar, ProgressDrawTarget, ProgressStyle};
+use indicatif::{ProgressBar, ProgressStyle};
 use log::info;
 
 /// Contains the Argument parser
